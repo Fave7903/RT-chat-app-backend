@@ -81,6 +81,8 @@ npm start
 ## Misc
 - **GET** `/health` → Health check  
 
+---
+
 ## Socket.IO Events
 
 ## Client → Server
