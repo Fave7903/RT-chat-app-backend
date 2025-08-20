@@ -16,7 +16,7 @@ A real-time chat backend featuring authentication, public/private rooms, presenc
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Backend:** Node.js, Express, TypeScript  
 - **WebSockets:** Socket.IO  
 - **Database:** MySQL with Sequelize ORM (`mysql2`)  
@@ -24,7 +24,7 @@ A real-time chat backend featuring authentication, public/private rooms, presenc
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -61,6 +61,8 @@ npm start
 ```
 
 # REST API Endpoints
+
+**Deployed API URL** `https://rt-chat-app-backend.onrender.com/`
 
 ## Authentication
 - **POST** `/api/auth/register` → Register a new user  
